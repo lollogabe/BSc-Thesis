@@ -13,9 +13,9 @@
 This repository contains the BSc thesis project, which investigates the physics of phase transitions and critical phenomena. The work develops the topic starting from the classical mechanics description and moving to the quantum mechanical one.
 
 The analysis focuses specifically on:
-* The **classical 1D and multi-dimensional Ising model**, with the 1D case solved analytically and the multi-dimensional case treated with mean-field theory.
+* The **classical 1D and multi-dimensional Ising model**, with the 1D case solved analytically and the multi-dimensional case treated with mean-field theory. Mean field theory is then derived from Landau's framework.
 * The **quantum 1D Ising model in a transverse field**, which is studied and solved analytically.
-* The connection between the 1D quantum model and the 2D classical model.
+* The connection between the 1D quantum model and the 2D classical model, part of the **quantum-classical mapping**.
 
 ## Repository Contents
 
