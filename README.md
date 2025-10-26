@@ -40,7 +40,7 @@ If you find this work useful in your research, please consider citing it:
   title        = {Quantum Transitions: The 1D Ising Chain in a Transverse Field},
   howpublished = {BSc Thesis, Sapienza University of Rome},
   year         = {2025},
-  note         = {Available at my [GitHub repository](https://github.com/lollogabe/BSc-Thesis)}
+  note         = {Available at: (https://github.com/lollogabe/BSc-Thesis)}
 }
 ```
 
