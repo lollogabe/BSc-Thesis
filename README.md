@@ -17,10 +17,12 @@ The analysis focuses specifically on:
 * The **quantum 1D Ising model in a transverse field**, which is studied and solved analytically.
 * The connection between the 1D quantum model and the 2D classical model, part of the **quantum-classical mapping**.
 
+
 ## Repository Contents
 
 * `/paper/`: Contains the final PDF of the thesis (`thesis.pdf`) and the corresponding presentation slides (`presentation.pdf`).
 * `/src/`: Contains the Python code used for the computational simulation and exact diagonalization of the Hamiltonian, as discussed in the thesis.
+* **Important notice**: for the time being both the ('tesi.pdf') and the ('presentazione.pdf') file will be written in Italian. I will adequately translate them as soon as possible.
 
 ## Acknowledgments
 
