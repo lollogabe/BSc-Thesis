@@ -22,6 +22,14 @@ The analysis focuses specifically on:
 * `/paper/`: Contains the final PDF of the thesis (`thesis.pdf`) and the corresponding presentation slides (`presentation.pdf`).
 * `/src/`: Contains the Python code used for the computational simulation and exact diagonalization of the Hamiltonian, as discussed in the thesis.
 
+## Acknowledgments
+
+Special thanks to professor **Andrea Pelissetto** for his guidance in the making of this project.
+
+## Contact
+
+For questions, feedback, or collaborations feel free to [email me](mailto:lollogabe@icloud.com) or to contact me on [LinkedIn](https://www.linkedin.com/in/lorenzo-gabellini-phys).
+
 ## How to Cite
 
 If you find this work useful in your research, please consider citing it:
@@ -32,20 +40,12 @@ If you find this work useful in your research, please consider citing it:
   title        = {Quantum Transitions: The 1D Ising Chain in a Transverse Field},
   howpublished = {BSc Thesis, Sapienza University of Rome},
   year         = {2025},
-  note         = {Available at: [https://github.com/tetu-io](https://github.com/tetu-io)}
+  note         = {Available at my [GitHub repository](https://github.com/lollogabe/BSc-Thesis)}
 }
 ```
 
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Acknowledgments
-
-Special thanks to professor **Andrea Pelissetto** for his guidance in the making of this project.
-
-## Contact
-
-For questions, feedback, or collaborations feel free to [email me](mailto:lollogabe@icloud.com) or to contact me on [LinkedIn](https://www.linkedin.com/in/lorenzo-gabellini-phys).
 
 
