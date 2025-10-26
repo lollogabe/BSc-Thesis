@@ -19,7 +19,7 @@ The analysis focuses specifically on:
 
 ## Repository Contents
 
-* `/paper/`: Contains the final PDF of the thesis (`BSc_Thesis_Gabellini.pdf`) and the corresponding presentation slides (`BSc_Presentation_Gabellini.pdf`).
+* `/paper/`: Contains the final PDF of the thesis (`thesis.pdf`) and the corresponding presentation slides (`presentation.pdf`).
 * `/src/`: Contains the Python code used for the computational simulation and exact diagonalization of the Hamiltonian, as discussed in the thesis.
 
 ## How to Cite
@@ -39,5 +39,13 @@ If you find this work useful in your research, please consider citing it:
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## Acknowledgments
+
+Special thanks to professor **Andrea Pelissetto** for his guidance in the making of this project.
+
+## Contact
+
+For questions, feedback, or collaborations feel free to [email me](mailto:lollogabe@icloud.com) or to contact me on [LinkedIn](https://www.linkedin.com/in/lorenzo-gabellini-phys).
 
 
