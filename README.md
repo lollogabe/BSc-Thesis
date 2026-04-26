@@ -20,7 +20,7 @@ The analysis focuses specifically on:
 
 ## Repository Contents
 
-* `/paper/`: Contains the final PDF of the thesis (`thesis.pdf`) and the corresponding presentation slides (`presentation.pdf`).
+* `/docs/`: Contains the final PDF of the thesis (`thesis.pdf`) and the corresponding presentation slides (`presentation.pdf`).
 * `/src/`: Contains the Python code used for the computational simulation and exact diagonalization of the Hamiltonian, as discussed in the thesis.
 * **Important notice**: for the time being both the ('tesi.pdf') and the ('presentazione.pdf') file will be written in Italian. I will adequately translate them as soon as possible.
 
@@ -45,9 +45,5 @@ If you find this work useful in your research, please consider citing it:
   note         = {Available at: (https://github.com/lollogabe/BSc-Thesis)}
 }
 ```
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 
